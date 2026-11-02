@@ -1,47 +1,44 @@
-# César Carrasco
+<a href="https://main.d2bph0agvwxvyn.amplifyapp.com/">
+  <img src="assets/banner.svg" alt="César Carrasco · Cloud e IA. Muchas ideas se quedan en la nube. Yo las aterrizo en producción." width="100%">
+</a>
 
-**Ingeniero de Infraestructura Cloud · AWS & IBM Cloud · Estudiante de Ingeniería de Ciberseguridad (UNI, Top 5%)**
+<p align="center">
+  <a href="https://main.d2bph0agvwxvyn.amplifyapp.com/"><img src="https://img.shields.io/badge/Ver_mi_portafolio-ff7a2f?style=for-the-badge&logoColor=1a0c02" alt="Ver mi portafolio"></a>
+  <a href="https://www.linkedin.com/in/cesar-carrasco-rojas"><img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0e152b?style=for-the-badge&logo=linkedin&logoColor=f1eee8" alt="Conectemos en LinkedIn"></a>
+  <a href="https://main.d2bph0agvwxvyn.amplifyapp.com/assets/CV_Cesar_Carrasco.pdf"><img src="https://img.shields.io/badge/Descargar_mi_CV-0e152b?style=for-the-badge" alt="Descargar mi CV"></a>
+</p>
 
-Opero sistemas de misión crítica en entornos regulados y auditados. Me interesa la intersección entre **cloud, seguridad e IA**: infraestructura que no se cae, que pasa auditorías y que se explica bien a quien no es técnico.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cesar--carrasco--rojas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-carrasco-rojas/)
-[![Email](https://img.shields.io/badge/Email-cesaracarrascor1026%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:cesaracarrascor1026@gmail.com)
-![Ubicación](https://img.shields.io/badge/Lima-Perú-555?logo=googlemaps&logoColor=white)
+## Donde ya lo hice
 
----
+**IBM** · Cloud Customer Success Specialist · <sub>Abr 2025 a hoy</sub><br>
+Construí de punta a punta un **sistema de IA contra el lavado de activos** para Financiera Efectiva, con watsonx.ai y agentes en watsonx Orchestrate. Hoy se ofrece a otros bancos. Soy el contacto técnico de clientes corporativos en Perú, Colombia y Ecuador.
 
-## Lo que he hecho
+**Cyancloud** · Consultor de Infraestructura Cloud, luego Tech Lead · <sub>Nov 2025 a Jun 2026 · Cliente: ONPE</sub><br>
+Lideré el equipo de ingeniería de **más de 8 sistemas de las Elecciones Generales Perú 2026**, en una arquitectura híbrida de AWS y on‑premises: resultados en tiempo real y cómputo de votos con firma digital.
 
-- **Tech Lead de Infraestructura Cloud — Elecciones Generales 2026 (ONPE), vía Cyancloud.** Sostuve 8 sistemas electorales críticos con **27M+ registros** en AWS (ECS Fargate, EKS, Aurora, DocumentDB, CloudFront, WAF), di soporte a auditorías bajo **NIST CSF** y entregué 2 sistemas antes del plazo.
-- **Cloud Customer Success Specialist — IBM.** Recuperé un clúster OpenShift en producción ante un incidente **Severity 1 sin pérdida de datos** y ejecuté upgrades de OpenShift **4.14 → 4.19 sin downtime no planificado**.
-- **Beca internacional completa — Hackathon SALA AI 2026 (Quito).** Seleccionado entre postulantes de toda Latinoamérica para construir *RainCaster Galápagos*, nowcasting de lluvias con IA.
-- **Investigación en visión por computadora (UNI).** Detector YOLOv8 entrenado con un dataset propio de 5,000+ imágenes etiquetadas.
+## Lo que construyo por mi cuenta
 
-## Proyectos destacados
+<a href="https://github.com/Ceskard26/ibm-docs-rag"><img src="assets/proyecto-ibm-knowledge.svg" alt="01 · IBM Knowledge — Mejor Proyecto, IBM Student Council 2026" width="100%"></a>
+<a href="https://github.com/Ceskard26/agentguard"><img src="assets/proyecto-agentguard.svg" alt="02 · AgentGuard — Bounty ganado, Hackathon Ethereum Lima 2026" width="100%"></a>
+<a href="https://github.com/Ceskard26/track-2_SALA_AI"><img src="assets/proyecto-raincaster.svg" alt="03 · RainCaster Galápagos — Beca internacional completa, Hackathon SALA AI 2026" width="100%"></a>
 
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [**agentguard**](https://github.com/Ceskard26/agentguard) | Delegación segura para agentes de IA: la IA evalúa el riesgo, un contrato en Arbitrum Stylus decide qué se autoriza. | Arbitrum Stylus, Solidity, EIP-712 |
-| [**ibm-docs-rag**](https://github.com/Ceskard26/ibm-docs-rag) | Agente RAG sobre la documentación de IBM que responde citando la fuente. | FastAPI, watsonx.ai, pgvector, React + Carbon |
-| [**hematopass-app**](https://github.com/Ceskard26/hematopass-app) | Ruta asistencial digital para hematología pediátrica (Hackatón en Salud INSN San Borja 2026). | TypeScript |
-| [**vsi-scheduler**](https://github.com/Ceskard26/vsi-scheduler) | Encendido y apagado programado de VSIs en IBM Cloud para reducir costos, 100% serverless. | IBM Code Engine, Python, cron |
-| [**track-2_SALA_AI**](https://github.com/Ceskard26/track-2_SALA_AI) | RainCaster Galápagos: predicción de precipitaciones a 3/6/12 horas. | Python, LightGBM, FastAPI, AWS EC2 |
-| [**E-Waste**](https://github.com/Ceskard26/E-Waste) | Identifica residuos electrónicos desde una foto y guía su reciclaje. [Demo](https://e-waste-gules.vercel.app) | TypeScript, Vercel |
+## Lo que aprendo, lo enseño
 
-## Stack
+**AWS Student Builder Group UNI** · Líder. Abrí una cohorte de AWS Academy con 457 estudiantes y construí [aws-uni.com](https://aws-uni.com). [Únete ↗](https://linktr.ee/AWSCloudClubUNI)
 
-**Cloud** — AWS (ECS/Fargate, EKS, Lambda, API Gateway, RDS Aurora, DocumentDB, CloudFront, Route 53, ALB/NLB, Transit Gateway, S3) · IBM Cloud (OpenShift, IKS, Code Engine, PowerVS, Cloud Logs)
+**Developer Student Club UNI** · Vicepresidente. Eventos de datos, IA, cloud y redes para estudiantes de ingeniería. [Ven al próximo ↗](https://devsc.netlify.app/)
 
-**Contenedores y DevOps** — Kubernetes, OpenShift, Docker (buildx multi-arch), Helm, CI/CD, Terraform (básico), Bash
+## Mi stack, capa por capa
 
-**Seguridad** — NIST Cybersecurity Framework, IAM, WAF, Secrets Manager, SCC Workload Protection
+<table>
+<tr><td width="170"><b>IA y GenAI</b><br><sub>Lo que decide</sub></td><td><code>watsonx Orchestrate</code> <code>watsonx.ai</code> <code>Agentes de IA</code> <code>RAG</code> <code>LangChain</code> <code>LightGBM</code> <code>Búsqueda vectorial</code></td></tr>
+<tr><td><b>Código y datos</b><br><sub>De qué está hecho</sub></td><td><code>Python</code> <code>SQL</code> <code>Bash</code> <code>FastAPI</code> <code>PostgreSQL</code></td></tr>
+<tr><td><b>DevOps</b><br><sub>Cómo llega</sub></td><td><code>Terraform</code> <code>Docker</code> <code>Kubernetes</code> <code>GitHub Actions</code> <code>AWS CodeDeploy</code> <code>Linux</code> <code>Git</code></td></tr>
+<tr><td><b>Cloud</b><br><sub>Donde corre</sub></td><td><code>Amazon EKS</code> <code>ECS</code> <code>EC2</code> <code>RDS Aurora</code> <code>S3</code> <code>CloudFront</code> <code>OpenShift</code> <code>IBM Kubernetes Service</code> <code>VPC</code></td></tr>
+</table>
 
-**Datos e IA** — Python, PostgreSQL, MongoDB, Redis, Grafana, Fluent Bit, LightGBM, YOLOv8, scikit-learn, OpenCV, RAG / embeddings
+<br>
 
-## Certificaciones
-
-AWS Certified Cloud Practitioner · IBM Certified Technical Advocate – Cloud v5 · Google Cybersecurity Professional Certificate
-
----
-
-<sub>Español nativo · Inglés B2 · Abierto a oportunidades en cloud, seguridad e infraestructura para el sector financiero.</sub>
+<p align="center"><b>¿Tienes algo que aterrizar?</b> Escríbeme por <a href="https://www.linkedin.com/in/cesar-carrasco-rojas">LinkedIn</a>. Respondo yo, no un bot.</p>
